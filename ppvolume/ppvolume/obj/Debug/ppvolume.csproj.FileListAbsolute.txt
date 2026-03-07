@@ -1,0 +1,11 @@
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\bin\Debug\ppvolume.exe.config
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\bin\Debug\ppvolume.exe
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\bin\Debug\ppvolume.pdb
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\obj\Debug\ppvolume.csproj.AssemblyReference.cache
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\obj\Debug\ppvolume.Form1.resources
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\obj\Debug\ppvolume.Properties.Resources.resources
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\obj\Debug\ppvolume.csproj.GenerateResource.cache
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\obj\Debug\ppvolume.csproj.CoreCompileInputs.cache
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\obj\Debug\ppvolume.exe
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\obj\Debug\ppvolume.pdb
+C:\Users\0030482523005\source\repos\ppvolume\ppvolume\obj\Debug\ppvolume.exe.config
